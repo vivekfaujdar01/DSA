@@ -3,15 +3,19 @@ import java.util.*;
 public class LargestElement {
     public static void main(String[] args) {
         int[] arr = new int[5];
+
         Scanner scanner = new Scanner(System.in);
+
         System.out.println("Enter 5 integers:");
         for (int i = 0; i < arr.length; i++) {
             arr[i] = scanner.nextInt();
         }
+
         scanner.close();
         // Find the largest element in the array
         int largest = findLargest(arr);
         System.out.println("The largest element is: " + largest);
+        
     }
 
     public static int findLargest(int[] arr) {
