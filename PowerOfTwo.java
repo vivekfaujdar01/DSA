@@ -1,3 +1,4 @@
+import java.util.*;
 public class PowerOfTwo {
     static boolean isPowerofTwo(int n) {
         if (n <= 0)
