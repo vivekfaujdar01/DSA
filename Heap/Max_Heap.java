@@ -1,5 +1,9 @@
 import java.util.*;
 
+// Max Heap Implementation in Java
+//Inbuilt max heap using Priority Queue PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+
+
 public class Max_Heap {
     private List<Integer> heap = new ArrayList<>();
 
@@ -29,7 +33,7 @@ public class Max_Heap {
         }
         return max;
     }
-    
+
     private void heapifyDown(int index) {
         int size = heap.size();
         while (index < size) {
