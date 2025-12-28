@@ -1,16 +1,21 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        int n = nums.length;
-        int[] freq = new int[n+1];
-        List<Integer> arr = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
         for(int i=0;i<nums.length;i++){
-            freq[nums[i]]++;
+            int index = Math.abs(nums[i])-1;
+            if(nums[index]<0){
+                continue;
+            }
+            else{
+                nums[index] = -nums[index];
+            }
+            
         }
-        for(int i=1;i<nums.length+1;i++){
-            if(freq[i] == 0){
-                arr.add(i);
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>0){
+                list.add(i+1);
             }
         }
-        return arr;
+        return list;
     }
 }
