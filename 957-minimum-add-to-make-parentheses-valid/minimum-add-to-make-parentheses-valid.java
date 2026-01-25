@@ -1,44 +1,23 @@
 class Solution {
-    private Stack<Character> st = new Stack<>();
-
-    public boolean match(char c){
-        if(c == ')' && st.peek() == '('){
-            return true;
-        }
-        else if(st.peek() == '[' && c == ']'){
-            return true;
-        }
-        else if(st.peek() == '{' && c== '}'){
-            return true;
-        }
-        else{
-            return false;
-        }
-    } 
     public int minAddToMakeValid(String s) {
+        // more clean code compare to previous one and i handle unnecessary conditions
+
+        Stack<Character> st = new Stack<>();
         int count = 0;
-        for(int i=0;i<s.length();i++){
-            char c = s.charAt(i);
-            if(c == ')' || c == ']' || c == '}'){
-                if(st.isEmpty()){
-                    count++;
-                }
-                else if(!st.isEmpty() && !match(c)){
-                    count++;
-                    st.pop();
-                }
-                else{
-                    st.pop();
-                }
-            }
-            else if(c == '(' || c =='[' || c == '{'){
+
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
                 st.push(c);
+            } else { // c == ')'
+                if (!st.isEmpty()) {
+                    st.pop();
+                } else {
+                    count++; // need one '('
+                }
             }
         }
-        while(!st.isEmpty()){
-            count++;
-            st.pop();
-        }
-        return count;
+
+        // remaining '(' need ')'
+        return count + st.size();
     }
 }
