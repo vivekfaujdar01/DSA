@@ -27,10 +27,10 @@ class Solution {
         int[][] directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
 
         // BFS
-        while (!queue.isEmpty()) {
+        while (!queue.isEmpty() && freshCount > 0) {
 
             int size = queue.size();
-            boolean rottedThisMinute = false; // we are using this for checking only at a level
+            minutes++;
 
             // process one level (one minute)
             for (int i = 0; i < size; i++) {
@@ -48,13 +48,8 @@ class Solution {
                         grid[nr][nc] = 2;   // make it rotten
                         freshCount--;
                         queue.offer(new int[]{nr, nc});
-                        rottedThisMinute = true;
                     }
                 }
-            }
-
-            if (rottedThisMinute) {
-                minutes++;
             }
         }
 
