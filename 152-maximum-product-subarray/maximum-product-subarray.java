@@ -1,19 +1,26 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int curMax = nums[0], curMin = nums[0], ans = nums[0];
-        //Need to track both min and max (because negative flips sign).
-        for (int i = 1; i < nums.length; i++) {
-            int x = nums[i];
-            // We will swap currMax and currMin if nums[i] is negative
-            if (x < 0) {
-                int tmp = curMax;
-                curMax = curMin;
-                curMin = tmp;
-            }
-            curMax = Math.max(x, curMax * x);
-            curMin = Math.min(x, curMin * x);
-            ans = Math.max(ans, curMax);
+        int n = nums.length;
+        int[] maxDP = new int[n];
+        int[] minDP = new int[n];
+        
+        // Base case
+        maxDP[0] = nums[0];
+        minDP[0] = nums[0];
+        
+        int result = nums[0];
+        
+        for (int i = 1; i < n; i++) {
+            
+            int curr = nums[i];
+            
+            maxDP[i] = Math.max(curr,Math.max(curr * maxDP[i - 1],curr * minDP[i - 1]));
+            
+            minDP[i] = Math.min(curr,Math.min(curr * maxDP[i - 1],curr * minDP[i - 1]));
+            
+            result = Math.max(result, maxDP[i]);
         }
-        return ans;
+        
+        return result;
     }
 }
