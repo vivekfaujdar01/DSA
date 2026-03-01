@@ -36,8 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
