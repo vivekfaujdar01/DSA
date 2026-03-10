@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/vivekfaujdar01/DSA/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/1143-longest-common-subsequence) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vivekfaujdar01/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Two Pointers
 |  |
