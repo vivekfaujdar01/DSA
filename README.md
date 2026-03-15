@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Matrix
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/vivekfaujdar01/DSA/tree/master/0174-dungeon-game) |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
