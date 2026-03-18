@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/vivekfaujdar01/DSA/tree/master/0174-dungeon-game) |
 | [0322-coin-change](https://github.com/vivekfaujdar01/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vivekfaujdar01/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0518-coin-change-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
 ## Greedy
 |  |
