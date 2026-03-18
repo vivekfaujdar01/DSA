@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
 | [0741-cherry-pickup](https://github.com/vivekfaujdar01/DSA/tree/master/0741-cherry-pickup) |
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
+| [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vivekfaujdar01/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Hash Table
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/vivekfaujdar01/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/vivekfaujdar01/DSA/tree/master/0741-cherry-pickup) |
+| [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/vivekfaujdar01/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/1143-longest-common-subsequence) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/vivekfaujdar01/DSA/tree/master/0162-find-peak-element) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
