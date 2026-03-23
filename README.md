@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/vivekfaujdar01/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekfaujdar01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vivekfaujdar01/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/vivekfaujdar01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/vivekfaujdar01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Sorting
 |  |
 | ------- |
