@@ -1,50 +1,35 @@
 class Solution {
-    // Tabulation method
+    // Space optimisation using 2 arrays 
+    // we put after at place of dp[index+1] and curr at dp[index] 
     public int maxProfit(int[] prices) {
         int n = prices.length;
 
-        int[][][] dp = new int[n + 1][2][3]; // we use n+1 because we need extra row for index+1
+        int[][] after = new int[2][3];
+        int[][] curr = new int[2][3];
 
-        for (int index = n - 1; index >= 0; index--) { // starting from n-1
+        for (int index = n - 1; index >= 0; index--) {
+
             for (int buy = 0; buy <= 1; buy++) {
                 for (int cap = 1; cap <= 2; cap++) {
 
                     if (buy == 1) {
-                        int take = -prices[index] + dp[index + 1][0][cap];
-                        int skip = dp[index + 1][1][cap];
+                        int take = -prices[index] + after[0][cap];
+                        int skip = after[1][cap];
 
-                        dp[index][1][cap] = Math.max(take, skip);
+                        curr[1][cap] = Math.max(take, skip);
                     } else {
-                        int take = prices[index] + dp[index + 1][1][cap - 1];
-                        int skip = dp[index + 1][0][cap];
+                        int take = prices[index] + after[1][cap - 1];
+                        int skip = after[0][cap];
 
-                        dp[index][0][cap] = Math.max(take, skip);
+                        curr[0][cap] = Math.max(take, skip);
                     }
                 }
             }
+
+            // Move curr -> after
+            after = curr;
         }
 
-        return dp[0][1][2];
+        return after[1][2];
     }
 }
-
-// MEMOIZATION
-// int[][][] dp = new int[n][2][3];
-// private int helper(int[] prices, int index, int buy, int cap, int[][][] dp) {
-//     // Base case
-//     if (index == prices.length || cap == 0) return 0;
-//     // Memo check
-//     if (dp[index][buy][cap] != -1)
-//         return dp[index][buy][cap];
-//     int profit;
-//     if (buy == 1) {
-//         int take = -prices[index] + helper(prices, index + 1, 0, cap, dp);
-//         int skip = helper(prices, index + 1, 1, cap, dp);
-//         profit = Math.max(take, skip);
-//     } else {
-//         int sell = prices[index] + helper(prices, index + 1, 1, cap - 1, dp);
-//         int skip = helper(prices, index + 1, 0, cap, dp);
-//         profit = Math.max(sell, skip);
-//     }
-//     return dp[index][buy][cap] = profit;
-// }
