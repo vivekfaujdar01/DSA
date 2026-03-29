@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/vivekfaujdar01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vivekfaujdar01/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
