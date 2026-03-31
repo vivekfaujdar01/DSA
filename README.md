@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vivekfaujdar01/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/vivekfaujdar01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vivekfaujdar01/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekfaujdar01/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
