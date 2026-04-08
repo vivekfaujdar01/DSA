@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vivekfaujdar01/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/vivekfaujdar01/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/vivekfaujdar01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vivekfaujdar01/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/vivekfaujdar01/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vivekfaujdar01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekfaujdar01/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vivekfaujdar01/DSA/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/vivekfaujdar01/DSA/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/vivekfaujdar01/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vivekfaujdar01/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/vivekfaujdar01/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0088-merge-sorted-array) |
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
