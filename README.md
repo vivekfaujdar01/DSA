@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/vivekfaujdar01/DSA/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
@@ -224,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Recursion
 |  |
 | ------- |
