@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/vivekfaujdar01/DSA/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0518-coin-change-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vivekfaujdar01/DSA/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/vivekfaujdar01/DSA/tree/master/0875-koko-eating-bananas) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vivekfaujdar01/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Enumeration
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -306,10 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Quickselect
 |  |
@@ -325,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
