@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/vivekfaujdar01/DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/vivekfaujdar01/DSA/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/vivekfaujdar01/DSA/tree/master/0584-find-customer-referee) |
+| [1075-project-employees-i](https://github.com/vivekfaujdar01/DSA/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/vivekfaujdar01/DSA/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/vivekfaujdar01/DSA/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/vivekfaujdar01/DSA/tree/master/1280-students-and-examinations) |
