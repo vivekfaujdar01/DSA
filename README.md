@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/vivekfaujdar01/DSA/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/vivekfaujdar01/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/vivekfaujdar01/DSA/tree/master/0610-triangle-judgement) |
+| [0626-exchange-seats](https://github.com/vivekfaujdar01/DSA/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/vivekfaujdar01/DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/vivekfaujdar01/DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/vivekfaujdar01/DSA/tree/master/1075-project-employees-i) |
