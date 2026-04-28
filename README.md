@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekfaujdar01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/vivekfaujdar01/DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/vivekfaujdar01/DSA/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/vivekfaujdar01/DSA/tree/master/0368-largest-divisible-subset) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -398,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/vivekfaujdar01/DSA/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/vivekfaujdar01/DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vivekfaujdar01/DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
