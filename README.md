@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vivekfaujdar01/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/vivekfaujdar01/DSA/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/vivekfaujdar01/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/vivekfaujdar01/DSA/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/vivekfaujdar01/DSA/tree/master/0740-delete-and-earn) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/vivekfaujdar01/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vivekfaujdar01/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0740-delete-and-earn](https://github.com/vivekfaujdar01/DSA/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/vivekfaujdar01/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
