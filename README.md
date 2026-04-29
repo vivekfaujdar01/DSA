@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vivekfaujdar01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/vivekfaujdar01/DSA/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/vivekfaujdar01/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0152-maximum-product-subarray) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/vivekfaujdar01/DSA/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/vivekfaujdar01/DSA/tree/master/0174-dungeon-game) |
