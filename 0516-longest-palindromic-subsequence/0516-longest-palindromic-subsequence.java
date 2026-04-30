@@ -1,5 +1,5 @@
 class Solution {
-    // memoisation approach to solve it without lcs
+
     public int longestPalindromeSubseq(String s) {
         
         int n = s.length();
