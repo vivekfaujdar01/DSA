@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/vivekfaujdar01/DSA/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/vivekfaujdar01/DSA/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0518-coin-change-ii) |
+| [0605-can-place-flowers](https://github.com/vivekfaujdar01/DSA/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vivekfaujdar01/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/vivekfaujdar01/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vivekfaujdar01/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
