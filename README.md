@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/vivekfaujdar01/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/vivekfaujdar01/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vivekfaujdar01/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vivekfaujdar01/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/vivekfaujdar01/DSA/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0494-target-sum) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vivekfaujdar01/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/vivekfaujdar01/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0680-valid-palindrome-ii) |
