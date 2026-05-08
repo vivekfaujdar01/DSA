@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekfaujdar01/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1664-ways-to-make-a-fair-array](https://github.com/vivekfaujdar01/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vivekfaujdar01/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekfaujdar01/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/vivekfaujdar01/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekfaujdar01/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekfaujdar01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekfaujdar01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
