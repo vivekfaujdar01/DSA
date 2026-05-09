@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/vivekfaujdar01/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekfaujdar01/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/vivekfaujdar01/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vivekfaujdar01/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/vivekfaujdar01/DSA/tree/master/2404-most-frequent-even-element) |
