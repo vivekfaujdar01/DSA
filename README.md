@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vivekfaujdar01/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekfaujdar01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vivekfaujdar01/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vivekfaujdar01/DSA/tree/master/2404-most-frequent-even-element) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vivekfaujdar01/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/vivekfaujdar01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/vivekfaujdar01/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vivekfaujdar01/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/vivekfaujdar01/DSA/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekfaujdar01/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekfaujdar01/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekfaujdar01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2352-equal-row-and-column-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vivekfaujdar01/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Dynamic Programming
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/vivekfaujdar01/DSA/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/vivekfaujdar01/DSA/tree/master/0498-diagonal-traverse) |
+| [2352-equal-row-and-column-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Number Theory
 |  |
 | ------- |
