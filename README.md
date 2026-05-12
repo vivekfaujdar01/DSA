@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/vivekfaujdar01/DSA/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Ordered Set
 |  |
 | ------- |
