@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0494-target-sum) |
 ## Math
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
