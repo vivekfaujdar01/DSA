@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/vivekfaujdar01/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vivekfaujdar01/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0649-dota2-senate](https://github.com/vivekfaujdar01/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/vivekfaujdar01/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/vivekfaujdar01/DSA/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/vivekfaujdar01/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vivekfaujdar01/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/vivekfaujdar01/DSA/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/vivekfaujdar01/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
