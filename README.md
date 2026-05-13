@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vivekfaujdar01/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/vivekfaujdar01/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/vivekfaujdar01/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Two Pointers
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
