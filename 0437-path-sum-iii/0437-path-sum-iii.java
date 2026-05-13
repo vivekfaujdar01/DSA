@@ -14,33 +14,35 @@
  * }
  */
 class Solution {
-    // countPaths(node): paths from current node + paths from left subtree + paths from right subtree
-    // using long targetSum in countPaths function because node.val range is -10^9 <= Node.val <= 10^9
+
     public int pathSum(TreeNode root, int targetSum) {
-        
-        if(root == null) return 0;
 
-        int current = countPaths(root, targetSum);
+        HashMap<Long, Integer> map = new HashMap<>();
 
-        int left = pathSum(root.left, targetSum);
+        // Base case
+        map.put(0L, 1);
 
-        int right = pathSum(root.right, targetSum);
-
-        return current + left + right;
+        return dfs(root, 0L, targetSum, map);
     }
 
-    public int countPaths(TreeNode node, long targetSum) {
+    private int dfs(TreeNode node, long currentSum, int targetSum, HashMap<Long, Integer> map) {
 
-        if(node == null) return 0;
+        if(node == null)
+            return 0;
+        
+        currentSum += node.val; // Update running sum
 
-        int count = 0;
+        long needed = currentSum - targetSum; // Find required prefix sum
 
-        if(node.val == targetSum){
-            count++;
-        }
-            
-        count += countPaths(node.left, targetSum - node.val);
-        count += countPaths(node.right, targetSum - node.val);
+        int count = map.getOrDefault(needed, 0);
+
+        map.put(currentSum, map.getOrDefault(currentSum, 0) + 1); // Store current prefix sum
+
+        // Explore children
+        count += dfs(node.left, currentSum, targetSum, map);
+        count += dfs(node.right, currentSum, targetSum, map);
+
+        map.put(currentSum, map.get(currentSum) - 1); // Backtrack
 
         return count;
     }
