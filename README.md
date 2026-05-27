@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/vivekfaujdar01/DSA/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/vivekfaujdar01/DSA/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/vivekfaujdar01/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0931-minimum-falling-path-sum) |
