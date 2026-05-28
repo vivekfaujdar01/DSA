@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/vivekfaujdar01/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekfaujdar01/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/vivekfaujdar01/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivekfaujdar01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vivekfaujdar01/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
+| [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vivekfaujdar01/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/vivekfaujdar01/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/vivekfaujdar01/DSA/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekfaujdar01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vivekfaujdar01/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/vivekfaujdar01/DSA/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
+| [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vivekfaujdar01/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/vivekfaujdar01/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/vivekfaujdar01/DSA/tree/master/2542-maximum-subsequence-score) |
@@ -591,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/vivekfaujdar01/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
 ## Binary Search Tree
 |  |
 | ------- |
