@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/vivekfaujdar01/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekfaujdar01/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivekfaujdar01/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1664-ways-to-make-a-fair-array](https://github.com/vivekfaujdar01/DSA/tree/master/1664-ways-to-make-a-fair-array) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/vivekfaujdar01/DSA/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivekfaujdar01/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekfaujdar01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vivekfaujdar01/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
