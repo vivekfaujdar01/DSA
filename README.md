@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/vivekfaujdar01/DSA/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/vivekfaujdar01/DSA/tree/master/0228-summary-ranges) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vivekfaujdar01/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vivekfaujdar01/DSA/tree/master/0322-coin-change) |
