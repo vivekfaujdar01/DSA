@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/vivekfaujdar01/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/vivekfaujdar01/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/vivekfaujdar01/DSA/tree/master/2784-check-if-array-is-good) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vivekfaujdar01/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekfaujdar01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2542-maximum-subsequence-score](https://github.com/vivekfaujdar01/DSA/tree/master/2542-maximum-subsequence-score) |
+| [3689-maximum-total-subarray-value-i](https://github.com/vivekfaujdar01/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
