@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vivekfaujdar01/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vivekfaujdar01/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0063-unique-paths-ii) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekfaujdar01/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/vivekfaujdar01/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0063-unique-paths-ii) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekfaujdar01/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/vivekfaujdar01/DSA/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivekfaujdar01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -636,4 +640,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vivekfaujdar01/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
