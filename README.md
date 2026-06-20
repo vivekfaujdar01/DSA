@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekfaujdar01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0299-bulls-and-cows](https://github.com/vivekfaujdar01/DSA/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vivekfaujdar01/DSA/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/0409-longest-palindrome) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vivekfaujdar01/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0299-bulls-and-cows](https://github.com/vivekfaujdar01/DSA/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/vivekfaujdar01/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/0409-longest-palindrome) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/vivekfaujdar01/DSA/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/vivekfaujdar01/DSA/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/vivekfaujdar01/DSA/tree/master/1657-determine-if-two-strings-are-close) |
