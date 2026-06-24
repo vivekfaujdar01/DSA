@@ -1,20 +1,31 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] dp = new int[n];
-        Arrays.fill(dp, -1);
+        int dp[] = new int[n];
 
-        return rec(n - 1, dp);
+        for(int i=0;i<n;i++){
+            dp[i] = -1;
+        }
+        
+        return rec(n-1, dp);
     }
-
-    private int rec(int i, int[] dp) {
-        if (i == 0 || i == 1){ // dp[0] is storing result for stair 1 & dp[1] is storing result for stair 2;
-            return dp[i] = i+1;
+    public int rec(int n, int[] dp){
+        if(n==0){
+            return 1;
+        }
+        if(n == -1){
+            return 1;
+        }
+        if(n < -1){
+            return 0;
         }
 
-        if (dp[i] != -1) {
-            return dp[i];
+        if(dp[n] != -1){
+            return dp[n];
         }
 
-        return dp[i] = rec(i - 1, dp) + rec(i - 2, dp);
+        int jump1 = rec(n-1, dp);
+        int jump2 = rec(n-2, dp);
+
+        return dp[n] = jump1 + jump2;
     }
 }
