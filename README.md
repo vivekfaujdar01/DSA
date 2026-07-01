@@ -694,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vivekfaujdar01/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vivekfaujdar01/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Monotonic Stack
