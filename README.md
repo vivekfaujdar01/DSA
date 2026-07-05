@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/vivekfaujdar01/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
+| [1301-number-of-paths-with-max-score](https://github.com/vivekfaujdar01/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vivekfaujdar01/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivekfaujdar01/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0980-unique-paths-iii) |
+| [1301-number-of-paths-with-max-score](https://github.com/vivekfaujdar01/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekfaujdar01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/vivekfaujdar01/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/vivekfaujdar01/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/1143-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/vivekfaujdar01/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
