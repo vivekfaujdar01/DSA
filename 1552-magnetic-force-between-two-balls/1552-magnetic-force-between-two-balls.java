@@ -1,4 +1,5 @@
 class Solution {
+    // same as Aggressive Cows on GFG
     // Check if we can place m balls with at least 'dist'
     public static boolean canPlace(int[] position, int m, int dist) {
         int count = 1; // first ball at position[0]
