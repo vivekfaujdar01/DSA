@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/vivekfaujdar01/DSA/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vivekfaujdar01/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/vivekfaujdar01/DSA/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0933-number-of-recent-calls](https://github.com/vivekfaujdar01/DSA/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vivekfaujdar01/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Divide and Conquer
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
@@ -581,11 +584,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Quickselect
