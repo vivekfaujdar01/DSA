@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0980-unique-paths-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vivekfaujdar01/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/vivekfaujdar01/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vivekfaujdar01/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0872-leaf-similar-trees) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vivekfaujdar01/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0872-leaf-similar-trees) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Recursion
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivekfaujdar01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vivekfaujdar01/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -767,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Topological Sort
 |  |
 | ------- |
