@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/vivekfaujdar01/DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/vivekfaujdar01/DSA/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekfaujdar01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/vivekfaujdar01/DSA/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vivekfaujdar01/DSA/tree/master/0383-ransom-note) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/vivekfaujdar01/DSA/tree/master/0368-largest-divisible-subset) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vivekfaujdar01/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vivekfaujdar01/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/vivekfaujdar01/DSA/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekfaujdar01/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vivekfaujdar01/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/vivekfaujdar01/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -749,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vivekfaujdar01/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0980-unique-paths-iii) |
