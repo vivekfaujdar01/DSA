@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vivekfaujdar01/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vivekfaujdar01/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2685-count-the-number-of-complete-components](https://github.com/vivekfaujdar01/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/vivekfaujdar01/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vivekfaujdar01/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1382-balance-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vivekfaujdar01/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vivekfaujdar01/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Recursion
 |  |
@@ -585,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -747,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vivekfaujdar01/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Data Stream
 |  |
 | ------- |
