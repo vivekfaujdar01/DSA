@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekfaujdar01/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vivekfaujdar01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vivekfaujdar01/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vivekfaujdar01/DSA/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/vivekfaujdar01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
