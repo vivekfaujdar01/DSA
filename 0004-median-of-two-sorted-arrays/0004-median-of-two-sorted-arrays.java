@@ -4,35 +4,46 @@ class Solution {
         int m = nums1.length;
         int n = nums2.length;
 
-        int[] merged = new int[m + n];
+        int total = m + n;
 
         int i = 0;
         int j = 0;
-        int k = 0;
+
+        int count = -1;
+        int prev = 0;
+        int curr = 0;
 
         while (i < m && j < n) {
 
+            prev = curr;
+
             if (nums1[i] <= nums2[j]) {
-                merged[k++] = nums1[i++];
+                curr = nums1[i++];
             } else {
-                merged[k++] = nums2[j++];
+                curr = nums2[j++];
             }
+
+            count++;
+
+            if (count == total / 2) break;
+
         }
 
-        while (i < m) {
-            merged[k++] = nums1[i++];
+        while (count < total / 2 && i < m) {
+            prev = curr;
+            curr = nums1[i++];
+            count++;
         }
 
-        while (j < n) {
-            merged[k++] = nums2[j++];
+        while (count < total / 2 && j < n) {
+            prev = curr;
+            curr = nums2[j++];
+            count++;
         }
 
-        int total = m + n;
+        if (total % 2 == 1)
+            return curr;
 
-        if (total % 2 == 1) {
-            return merged[total / 2];
-        }
-
-        return (merged[total / 2] + merged[total / 2 - 1]) / 2.0;
+        return (prev + curr) / 2.0;
     }
 }
