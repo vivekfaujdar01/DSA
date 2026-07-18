@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vivekfaujdar01/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vivekfaujdar01/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/vivekfaujdar01/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vivekfaujdar01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vivekfaujdar01/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vivekfaujdar01/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekfaujdar01/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vivekfaujdar01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vivekfaujdar01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/vivekfaujdar01/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vivekfaujdar01/DSA/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vivekfaujdar01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vivekfaujdar01/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
