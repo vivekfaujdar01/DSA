@@ -1,35 +1,43 @@
 class Solution {
-
+    // space optimization
     public int numDecodings(String s) {
-        return solve(0, s);
-    }
+        int n = s.length();
 
-    private int solve(int i, String s) {
+        int next = 1; // Base Case
+        int secNext = 0;
 
-        // Successfully decoded the whole string
-        if (i == s.length()) {
-            return 1;
-        }
+        for (int i = n - 1; i >= 0; i--) {
 
-        // Strings starting with 0 are invalid
-        if (s.charAt(i) == '0') {
-            return 0;
-        }
-
-        // Option 1: Take one digit
-        int oneDigit = solve(i + 1, s);
-
-        // Option 2: Take two digits (if valid)
-        int twoDigit = 0;
-
-        if (i + 1 < s.length()) {
-            int num = (s.charAt(i) - '0') * 10 + (s.charAt(i + 1) - '0');
-
-            if (num >= 10 && num <= 26) {
-                twoDigit = solve(i + 2, s);
+            int curr = 0;
+            // Cannot decode a string starting with 0
+            if (s.charAt(i) == '0') { // important, updating the values in it also 
+                curr = 0;
+                secNext = next;
+                next = curr;
+                continue;
             }
+
+            // Take one digit
+            int oneDigit = next;
+
+            // Take two digits if valid
+            int twoDigit = 0;
+
+            if (i + 1 < n) {
+
+                int num = (s.charAt(i) - '0') * 10 + (s.charAt(i + 1) - '0');
+
+                if (num >= 10 && num <= 26) {
+                    twoDigit = secNext;
+                }
+            }
+
+            curr = oneDigit + twoDigit;
+
+            secNext = next;
+            next = curr;
         }
 
-        return oneDigit + twoDigit;
+        return next;
     }
 }
