@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/vivekfaujdar01/DSA/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vivekfaujdar01/DSA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/vivekfaujdar01/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0064-minimum-path-sum) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vivekfaujdar01/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/vivekfaujdar01/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0216-combination-sum-iii) |
