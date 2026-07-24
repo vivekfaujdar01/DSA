@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vivekfaujdar01/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vivekfaujdar01/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/vivekfaujdar01/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vivekfaujdar01/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vivekfaujdar01/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vivekfaujdar01/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2685-count-the-number-of-complete-components](https://github.com/vivekfaujdar01/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vivekfaujdar01/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vivekfaujdar01/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/vivekfaujdar01/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vivekfaujdar01/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1664-ways-to-make-a-fair-array](https://github.com/vivekfaujdar01/DSA/tree/master/1664-ways-to-make-a-fair-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -824,4 +827,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0210-course-schedule-ii) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vivekfaujdar01/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
