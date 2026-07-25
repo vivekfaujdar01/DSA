@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/vivekfaujdar01/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/vivekfaujdar01/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vivekfaujdar01/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/vivekfaujdar01/DSA/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0131-palindrome-partitioning](https://github.com/vivekfaujdar01/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vivekfaujdar01/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/vivekfaujdar01/DSA/tree/master/0174-dungeon-game) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vivekfaujdar01/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/vivekfaujdar01/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0980-unique-paths-iii) |
