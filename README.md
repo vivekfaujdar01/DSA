@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vivekfaujdar01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vivekfaujdar01/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/vivekfaujdar01/DSA/tree/master/0120-triangle) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vivekfaujdar01/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/vivekfaujdar01/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/vivekfaujdar01/DSA/tree/master/0131-palindrome-partitioning) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0191-number-of-1-bits) |
