@@ -1,25 +1,24 @@
 class Solution {
-    List<List<Integer>> result = new ArrayList<>();
+    List<List<Integer>> ans = new ArrayList<>();
     List<Integer> subset = new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) {
-        backtrack(0, nums);
-        return result;
+        rec(0, nums);
+        return ans;
     }
 
-    private void backtrack(int index, int[] nums) {
-        // Store the current subset
-        result.add(new ArrayList<>(subset));
-
-        for (int i = index; i < nums.length; i++) {
-            // Choose
-            subset.add(nums[i]);
-
-            // Recurse
-            backtrack(i + 1, nums);
-
-            // Remove (Backtrack)
-            subset.remove(subset.size() - 1);
+    private void rec(int index, int[] nums) {
+        if (index == nums.length) {
+            ans.add(new ArrayList<>(subset));
+            return;
         }
+
+        // PICK
+        subset.add(nums[index]);
+        rec(index + 1, nums);
+        subset.remove(subset.size() - 1);
+
+        // NOT PICK
+        rec(index + 1, nums);
     }
 }
