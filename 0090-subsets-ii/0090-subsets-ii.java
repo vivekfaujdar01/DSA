@@ -1,29 +1,30 @@
 class Solution {
-    List<List<Integer>> result = new ArrayList<>();
+    List<List<Integer>> ans = new ArrayList<>();
     List<Integer> subset = new ArrayList<>();
 
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         Arrays.sort(nums);
-        backtrack(0, nums);
-        return result;
+        rec(0, nums);
+        return ans;
     }
 
-    void backtrack(int index, int[] nums) {
-        // Store the current subset
-        result.add(new ArrayList<>(subset));
-
-        for (int i = index; i < nums.length; i++) {
-            // we don't start same recursion branch only if it is not the first index meand in backtrack(index) is not equal to i
-            if (i > index && nums[i] == nums[i - 1]) continue; 
-
-            // Choose
-            subset.add(nums[i]);
-
-            // Recurse
-            backtrack(i + 1, nums);
-
-            // Remove (Backtrack)
-            subset.remove(subset.size() - 1);
+    void rec(int index, int[] nums) {
+        if (index == nums.length) {
+            ans.add(new ArrayList<>(subset));
+            return;
         }
+
+        // PICK
+        subset.add(nums[index]);
+        rec(index + 1, nums);
+        subset.remove(subset.size() - 1);
+
+        // Skip duplicates before NOT PICK
+        while (index + 1 < nums.length && nums[index] == nums[index + 1]) {
+            index++;
+        }
+
+        // NOT PICK
+        rec(index + 1, nums);
     }
 }
