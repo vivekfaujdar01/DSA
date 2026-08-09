@@ -1,21 +1,20 @@
 class Solution {
-
+    // https://leetcode.com/problems/sum-of-all-subset-xor-totals/solutions/5182332/fasterlesser2-methodsdetailed-approachbr-ct4j
+    
     public int subsetXORSum(int[] nums) {
-        return solve(0, 0, nums);
-    }
-
-    int solve(int index, int xor, int[] nums) {
-        // All elements have been processed
-        if (index == nums.length) {
-            return xor;
+        int n = nums.length;
+        int totalSum = 0;
+        // Iterate through all possible subsets
+        for (int i = 0; i < (1 << n); i++) {
+            int subsetXor = 0;
+            for (int j = 0; j < n; j++) {
+                // Check if the j-th element is in the i-th subset
+                if ((i & (1 << j)) != 0) {
+                    subsetXor ^= nums[j];
+                }
+            }
+            totalSum += subsetXor;
         }
-
-        // Take the current element
-        int take = solve( index + 1, xor ^ nums[index], nums );
-
-        // Don't take the current element
-        int notTake = solve(index + 1, xor, nums);
-
-        return take + notTake;
+        return totalSum;
     }
 }
