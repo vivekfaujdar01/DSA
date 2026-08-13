@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/vivekfaujdar01/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vivekfaujdar01/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vivekfaujdar01/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vivekfaujdar01/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/vivekfaujdar01/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/2352-equal-row-and-column-pairs) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/vivekfaujdar01/DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vivekfaujdar01/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vivekfaujdar01/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vivekfaujdar01/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/vivekfaujdar01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vivekfaujdar01/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vivekfaujdar01/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Quickselect
 |  |
 | ------- |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/vivekfaujdar01/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vivekfaujdar01/DSA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Stack
 |  |
