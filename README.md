@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/vivekfaujdar01/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vivekfaujdar01/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3689-maximum-total-subarray-value-i](https://github.com/vivekfaujdar01/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vivekfaujdar01/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vivekfaujdar01/DSA/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/vivekfaujdar01/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0980-unique-paths-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vivekfaujdar01/DSA/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vivekfaujdar01/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vivekfaujdar01/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Monotonic Stack
 |  |
 | ------- |
