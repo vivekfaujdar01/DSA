@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0310-minimum-height-trees) |
 | [0437-path-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0437-path-sum-iii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekfaujdar01/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vivekfaujdar01/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/vivekfaujdar01/DSA/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekfaujdar01/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0310-minimum-height-trees) |
 | [0841-keys-and-rooms](https://github.com/vivekfaujdar01/DSA/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/vivekfaujdar01/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/vivekfaujdar01/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/vivekfaujdar01/DSA/tree/master/0310-minimum-height-trees) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
