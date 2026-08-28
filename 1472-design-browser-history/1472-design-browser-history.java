@@ -1,46 +1,54 @@
 class BrowserHistory {
 
-    List<String> history;
-    int current;
+    class Node {
+        String url;
+        Node prev;
+        Node next;
+
+        Node(String url) {
+            this.url = url;
+        }
+    }
+
+    Node current;
 
     public BrowserHistory(String homepage) {
-        history = new ArrayList<>();
-        history.add(homepage);
-        current = 0;
+        current = new Node(homepage);
     }
 
     public void visit(String url) {
 
         // Remove forward history
-        while (history.size() > current + 1) {
-            history.remove(history.size() - 1);
-        }
+        current.next = null;
 
-        // Add new page
-        history.add(url);
+        // Create new page
+        Node newNode = new Node(url);
+
+        // Connect current -> newNode
+        current.next = newNode;
+        newNode.prev = current;
 
         // Move to new page
-        current++;
+        current = newNode;
     }
 
     public String back(int steps) {
 
-        current = Math.max(0, current - steps);
+        while (steps > 0 && current.prev != null) {
+            current = current.prev;
+            steps--;
+        }
 
-        return history.get(current);
+        return current.url;
     }
 
     public String forward(int steps) {
 
-        current = Math.min(history.size() - 1, current + steps);
+        while (steps > 0 && current.next != null) {
+            current = current.next;
+            steps--;
+        }
 
-        return history.get(current);
+        return current.url;
     }
 }
-/**
- * Your BrowserHistory object will be instantiated and called as such:
- * BrowserHistory obj = new BrowserHistory(homepage);
- * obj.visit(url);
- * String param_2 = obj.back(steps);
- * String param_3 = obj.forward(steps);
- */
