@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/vivekfaujdar01/DSA/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/vivekfaujdar01/DSA/tree/master/0741-cherry-pickup) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vivekfaujdar01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vivekfaujdar01/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/vivekfaujdar01/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vivekfaujdar01/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/vivekfaujdar01/DSA/tree/master/1268-search-suggestions-system) |
