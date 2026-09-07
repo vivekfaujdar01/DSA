@@ -1,32 +1,46 @@
-public class Solution {
-    // in this we will expand string from center for finding length of palindrome
+class Solution {
+
+    Boolean[][] dp;
+
     public String longestPalindrome(String s) {
-        if (s.length() <= 1) {
-            return s;
+        int n = s.length();
+        dp = new Boolean[n][n];
+
+        int start = 0;
+        int maxLen = 1;
+
+        // Try all substrings
+        for (int i = 0; i < n; i++) {
+            for (int j = i; j < n; j++) {
+
+                if (isPalindrome(i, j, s)) {
+                    int len = j - i + 1;
+
+                    if (len > maxLen) {
+                        maxLen = len;
+                        start = i;
+                    }
+                }
+            }
         }
 
-        String maxStr = s.substring(0, 1);
-
-        for (int i = 0; i < s.length() - 1; i++) {
-            String odd = expandFromCenter(s, i, i);
-            String even = expandFromCenter(s, i, i + 1);
-
-            if (odd.length() > maxStr.length()) {
-                maxStr = odd;
-            }
-            if (even.length() > maxStr.length()) {
-                maxStr = even;
-            }
-        }
-
-        return maxStr;
+        return s.substring(start, start + maxLen);
     }
 
-    public String expandFromCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
+    private boolean isPalindrome(int i, int j, String s) {
+
+        // Base case
+        if (i >= j) return true;
+
+        // Already computed
+        if (dp[i][j] != null) return dp[i][j];
+
+        // If characters mismatch
+        if (s.charAt(i) != s.charAt(j)) {
+            return dp[i][j] = false;
         }
-        return s.substring(left + 1, right);
+
+        // Check inner substring
+        return dp[i][j] = isPalindrome(i + 1, j - 1, s);
     }
 }
