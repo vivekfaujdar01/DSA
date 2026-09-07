@@ -996,4 +996,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/vivekfaujdar01/DSA/tree/master/1472-design-browser-history) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivekfaujdar01/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
