@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivekfaujdar01/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/vivekfaujdar01/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/vivekfaujdar01/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vivekfaujdar01/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0334-increasing-triplet-subsequence) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekfaujdar01/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/vivekfaujdar01/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/vivekfaujdar01/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vivekfaujdar01/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
