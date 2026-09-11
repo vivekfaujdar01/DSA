@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vivekfaujdar01/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vivekfaujdar01/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vivekfaujdar01/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/vivekfaujdar01/DSA/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/vivekfaujdar01/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vivekfaujdar01/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
