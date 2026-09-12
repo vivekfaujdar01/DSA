@@ -1,19 +1,34 @@
+// We can use Sliding window in this because sum will increase, and negative values are not allowed in this array.
+// Something atmost logic is in another question of sliding window: https://leetcode.com/problems/subarrays-with-k-different-integers/description/
 class Solution {
+
     public int numSubarraysWithSum(int[] nums, int goal) {
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);
+        return atMost(nums, goal) - atMost(nums, goal - 1);
+    }
 
-        int prefixSum = 0;
+    private int atMost(int[] nums, int k) {
 
-        int cnt=0;
-        for(int i=0; i<nums.length; i++) {
-            prefixSum += nums[i];
-
-            if(map.containsKey(prefixSum - goal)) {
-                cnt += map.get(prefixSum - goal);
-            }
-            map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
+        if (k < 0) {
+            return 0;
         }
-        return cnt;
+
+        int left = 0;
+        int sum = 0;
+        int count = 0;
+
+        for (int right = 0; right < nums.length; right++) {
+
+            sum += nums[right];
+
+            while (sum > k) {
+                sum -= nums[left];
+                left++;
+            }
+
+            // Number of valid subarrays ending at right
+            count += right - left + 1;
+        }
+
+        return count;
     }
 }
