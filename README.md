@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/vivekfaujdar01/DSA/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/vivekfaujdar01/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -1026,4 +1027,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekfaujdar01/DSA/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vivekfaujdar01/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
