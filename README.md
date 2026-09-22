@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/vivekfaujdar01/DSA/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0853-car-fleet](https://github.com/vivekfaujdar01/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/vivekfaujdar01/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vivekfaujdar01/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/vivekfaujdar01/DSA/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
+| [0853-car-fleet](https://github.com/vivekfaujdar01/DSA/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/vivekfaujdar01/DSA/tree/master/1048-longest-string-chain) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/vivekfaujdar01/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
+| [0853-car-fleet](https://github.com/vivekfaujdar01/DSA/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/vivekfaujdar01/DSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vivekfaujdar01/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
+| [0853-car-fleet](https://github.com/vivekfaujdar01/DSA/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Topological Sort
 |  |
