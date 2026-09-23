@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vivekfaujdar01/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vivekfaujdar01/DSA/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/vivekfaujdar01/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vivekfaujdar01/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/vivekfaujdar01/DSA/tree/master/0649-dota2-senate) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vivekfaujdar01/DSA/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/vivekfaujdar01/DSA/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/vivekfaujdar01/DSA/tree/master/0658-find-k-closest-elements) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vivekfaujdar01/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/vivekfaujdar01/DSA/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/vivekfaujdar01/DSA/tree/master/0836-rectangle-overlap) |
