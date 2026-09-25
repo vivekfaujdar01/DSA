@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vivekfaujdar01/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/vivekfaujdar01/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekfaujdar01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/vivekfaujdar01/DSA/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/vivekfaujdar01/DSA/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/vivekfaujdar01/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/0509-fibonacci-number) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/vivekfaujdar01/DSA/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/vivekfaujdar01/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekfaujdar01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vivekfaujdar01/DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/vivekfaujdar01/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/vivekfaujdar01/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0853-car-fleet](https://github.com/vivekfaujdar01/DSA/tree/master/0853-car-fleet) |
