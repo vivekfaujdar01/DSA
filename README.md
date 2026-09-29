@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vivekfaujdar01/DSA/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/vivekfaujdar01/DSA/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/vivekfaujdar01/DSA/tree/master/0371-sum-of-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/vivekfaujdar01/DSA/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekfaujdar01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1472-design-browser-history](https://github.com/vivekfaujdar01/DSA/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vivekfaujdar01/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vivekfaujdar01/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/vivekfaujdar01/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0853-car-fleet](https://github.com/vivekfaujdar01/DSA/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vivekfaujdar01/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekfaujdar01/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
