@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vivekfaujdar01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vivekfaujdar01/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/vivekfaujdar01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vivekfaujdar01/DSA/tree/master/0443-string-compression) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/vivekfaujdar01/DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/vivekfaujdar01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vivekfaujdar01/DSA/tree/master/0367-valid-perfect-square) |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vivekfaujdar01/DSA/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/vivekfaujdar01/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/vivekfaujdar01/DSA/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0461-hamming-distance) |
@@ -1081,4 +1085,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vivekfaujdar01/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/vivekfaujdar01/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vivekfaujdar01/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
