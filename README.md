@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vivekfaujdar01/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3612-process-string-with-special-operations-i](https://github.com/vivekfaujdar01/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/vivekfaujdar01/DSA/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/vivekfaujdar01/DSA/tree/master/3894-traffic-signal-color) |
 ## Sorting
 |  |
 | ------- |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/vivekfaujdar01/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vivekfaujdar01/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vivekfaujdar01/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/vivekfaujdar01/DSA/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vivekfaujdar01/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/vivekfaujdar01/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/vivekfaujdar01/DSA/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/vivekfaujdar01/DSA/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
