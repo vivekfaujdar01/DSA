@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vivekfaujdar01/DSA/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0100-same-tree) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vivekfaujdar01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vivekfaujdar01/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vivekfaujdar01/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekfaujdar01/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0090-subsets-ii) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vivekfaujdar01/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/vivekfaujdar01/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/vivekfaujdar01/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/vivekfaujdar01/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/vivekfaujdar01/DSA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/vivekfaujdar01/DSA/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/vivekfaujdar01/DSA/tree/master/0115-distinct-subsequences) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/vivekfaujdar01/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vivekfaujdar01/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/vivekfaujdar01/DSA/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/vivekfaujdar01/DSA/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/vivekfaujdar01/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vivekfaujdar01/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/vivekfaujdar01/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/vivekfaujdar01/DSA/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
