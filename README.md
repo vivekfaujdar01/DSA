@@ -1138,4 +1138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/vivekfaujdar01/DSA/tree/master/0051-n-queens) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vivekfaujdar01/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
