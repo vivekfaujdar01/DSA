@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/vivekfaujdar01/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/vivekfaujdar01/DSA/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/vivekfaujdar01/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vivekfaujdar01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/vivekfaujdar01/DSA/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vivekfaujdar01/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vivekfaujdar01/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/vivekfaujdar01/DSA/tree/master/0845-longest-mountain-in-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vivekfaujdar01/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vivekfaujdar01/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vivekfaujdar01/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
