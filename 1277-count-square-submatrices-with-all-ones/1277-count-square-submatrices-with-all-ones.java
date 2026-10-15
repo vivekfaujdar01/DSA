@@ -1,47 +1,48 @@
-
 class Solution {
+
     public int countSquares(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
 
+        int[][] dp = new int[m][n];
+
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+
         int count = 0;
 
-        // Choose every cell as the top-left corner
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
-
-                // Try every possible square size
-                int maxSize = Math.min(m - i, n - j);
-
-                for (int size = 1; size <= maxSize; size++) {
-
-                    boolean allOnes = true;
-
-                    // Check every cell inside this square
-                    for (int r = i; r < i + size; r++) {
-                        for (int c = j; c < j + size; c++) {
-
-                            if (matrix[r][c] == 0) {
-                                allOnes = false;
-                                break;
-                            }
-                        }
-
-                        if (!allOnes) {
-                            break;
-                        }
-                    }
-
-                    if (allOnes) {
-                        count++;
-                    } else {
-                        // Larger squares contain this invalid square
-                        break;
-                    }
-                }
+                count += solve(i, j, matrix, dp);
             }
         }
 
         return count;
+    }
+
+    private int solve(int i, int j, int[][] matrix, int[][] dp) {
+
+        // Base case: outside the matrix
+        if (i < 0 || j < 0) {
+            return 0;
+        }
+
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+
+        // Current cell is zero
+        if (matrix[i][j] == 0) {
+            return dp[i][j] = 0;
+        }
+
+        int up = solve(i - 1, j, matrix, dp);
+        int left = solve(i, j - 1, matrix, dp);
+        int diagonal = solve(i - 1, j - 1, matrix, dp);
+
+        dp[i][j] = 1 + Math.min(up, Math.min(left, diagonal));
+
+        return dp[i][j];
     }
 }
