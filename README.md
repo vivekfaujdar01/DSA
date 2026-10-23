@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/vivekfaujdar01/DSA/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vivekfaujdar01/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/vivekfaujdar01/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vivekfaujdar01/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vivekfaujdar01/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/vivekfaujdar01/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vivekfaujdar01/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
