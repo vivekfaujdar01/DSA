@@ -1,30 +1,57 @@
-// Tabulation (Bottom-up)
-
+// greedy Approach
 class Solution {
     public boolean canJump(int[] nums) {
         int n = nums.length;
+        int maxReach = 0;
 
-        boolean[] dp = new boolean[n];
+        for (int i = 0; i < n; i++) {
 
-        // Base case: starting index is reachable
-        dp[0] = true;
+            // Current index is unreachable
+            if (i > maxReach) {
+                return false;
+            }
 
-        // Check each index from left to right
-        for (int i = 1; i < n; i++) {
+            // Update the farthest reachable index
+            maxReach = Math.max(maxReach, i + nums[i]);
 
-            // Traverse backward
-            for (int j = i - 1; j >= 0; j--) {
-
-                if (dp[j] && j + nums[j] >= i) {
-                    dp[i] = true;
-                    break;
-                }
+            // Destination reached
+            if (maxReach >= n - 1) {
+                return true;
             }
         }
 
-        return dp[n - 1];
+        return true;
     }
 }
+
+
+// Tabulation (Bottom-up)
+
+// class Solution {
+//     public boolean canJump(int[] nums) {
+//         int n = nums.length;
+
+//         boolean[] dp = new boolean[n];
+
+//         // Base case: starting index is reachable
+//         dp[0] = true;
+
+//         // Check each index from left to right
+//         for (int i = 1; i < n; i++) {
+
+//             // Traverse backward
+//             for (int j = i - 1; j >= 0; j--) {
+
+//                 if (dp[j] && j + nums[j] >= i) {
+//                     dp[i] = true;
+//                     break;
+//                 }
+//             }
+//         }
+
+//         return dp[n - 1];
+//     }
+// }
 
 // -1	Not calculated yet
 // 0	Cannot reach the destination
