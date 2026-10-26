@@ -1,44 +1,44 @@
 // Without tracking visited indices, recursion can repeat forever. We need a way to recognize that we've already explored an index.
-
+// BFS Solution 
 class Solution {
     public boolean canReach(int[] arr, int start) {
-        boolean[] visited = new boolean[arr.length];
-
-        return solve(arr, start, visited);
-    }
-
-    private boolean solve(int[] arr, int start, boolean[] visited) {
-
-        // Base case: reached a zero
-        if (arr[start] == 0) {
-            return true;
-        }
-
-        // Already explored this index
-        if (visited[start]) {
-            return false;
-        }
-
-        // Mark this index as visited
-        visited[start] = true;
-
         int n = arr.length;
 
-        // Try jumping right
-        int right = start + arr[start];
+        boolean[] visited = new boolean[n];
+        Queue<Integer> queue = new ArrayDeque<>();
 
-        if (right < n && solve(arr, right, visited)) {
-            return true;
+        // Start BFS from the given index
+        queue.offer(start);
+        visited[start] = true;
+
+        while (!queue.isEmpty()) {
+
+            int index = queue.poll();
+
+            // Target found
+            if (arr[index] == 0) {
+                return true;
+            }
+
+            // Jump right
+            int right = index + arr[index];
+
+            if (right < n && !visited[right]) {
+                visited[right] = true;
+                queue.offer(right);
+            }
+
+            // Jump left
+            int left = index - arr[index];
+
+            if (left >= 0 && !visited[left]) {
+                visited[left] = true;
+                queue.offer(left);
+            }
         }
 
-        // Try jumping left
-        int left = start - arr[start];
-
-        if (left >= 0 && solve(arr, left, visited)) {
-            return true;
-        }
-
-        // Neither direction reaches zero
+        // No reachable index contains zero
         return false;
     }
 }
+
