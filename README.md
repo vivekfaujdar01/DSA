@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vivekfaujdar01/DSA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/vivekfaujdar01/DSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/vivekfaujdar01/DSA/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0113-path-sum-ii) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vivekfaujdar01/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/vivekfaujdar01/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vivekfaujdar01/DSA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/vivekfaujdar01/DSA/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/vivekfaujdar01/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vivekfaujdar01/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/vivekfaujdar01/DSA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vivekfaujdar01/DSA/tree/master/0190-reverse-bits) |
