@@ -2,38 +2,36 @@ class Solution {
 
     public int numTilePossibilities(String tiles) {
 
-        char[] arr = tiles.toCharArray();
+        // Build frequency array
+        int[] freq = new int[26];
 
-        Arrays.sort(arr); // Sort characters
+        for (char ch : tiles.toCharArray()) {
+            freq[ch - 'A']++;
+        }
 
-        boolean[] used = new boolean[arr.length];
-
-        return backtrack(arr, used);
+        return backtrack(freq);
     }
 
-    private int backtrack(char[] arr, boolean[] used) {
+    private int backtrack(int[] freq) {
 
         int count = 0;
 
-        for (int i = 0; i < arr.length; i++) {
+        // Try all possible characters
+        for (int i = 0; i < 26; i++) {
 
-            // Skip already selected characters
-            if (used[i]) {
+            // Character is not available
+            if (freq[i] == 0) {
                 continue;
             }
 
-            // Skip duplicate choices at the same level
-            if (i > 0 && arr[i] == arr[i - 1] && !used[i - 1]) {
-                continue;
-            }
+            freq[i]--;  // Choose
 
-            used[i] = true; // Choose
+            count++; // Count the current non-empty sequence
 
-            count++; // Current non-empty sequence
+            // Explore further sequences
+            count += backtrack(freq);
 
-            count += backtrack(arr, used); // Explore
-
-            used[i] = false; // Backtrack
+            freq[i]++; // Backtrack: restore frequency
         }
 
         return count;
