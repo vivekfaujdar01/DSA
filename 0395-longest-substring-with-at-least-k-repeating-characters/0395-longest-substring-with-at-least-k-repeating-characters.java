@@ -1,35 +1,87 @@
-// Time Complexity - O(n^2)
+// Divide and Conquer (Recursive)
+// Time complexity: O(26n) there are only 26 distinct characters, the maximum recursion depth is bounded by 26.
 class Solution {
+
     public int longestSubstring(String s, int k) {
+        return solve(s, 0, s.length() - 1, k);
+    }
 
-        int n = s.length();
-        int ans = 0;
+    private int solve(String s, int start, int end, int k) {
 
-        for (int i = 0; i < n; i++) {
+        // Base case
+        if (end - start + 1 < k) {
+            return 0;
+        }
 
-            int[] freq = new int[26];
+        int[] freq = new int[26];
 
-            for (int j = i; j < n; j++) {
+        for (int i = start; i <= end; i++) {
+            freq[s.charAt(i) - 'a']++;
+        }
 
-                // Add only the newly included character
-                freq[s.charAt(j) - 'a']++;
+        // Find an invalid character
+        for (int i = start; i <= end; i++) {
 
-                // Check validity
-                boolean valid = true;
+            char ch = s.charAt(i);
 
-                for (int count : freq) {
-                    if (count > 0 && count < k) {
-                        valid = false;
-                        break;
+            if (freq[ch - 'a'] < k) {
+
+                int maxLength = 0;
+                int segmentStart = start;
+
+                // Split around all occurrences of this invalid character
+                for (int j = start; j <= end; j++) {
+
+                    if (s.charAt(j) == ch) {
+                        maxLength = Math.max(maxLength, solve(s, segmentStart, j - 1, k));
+                        segmentStart = j + 1;
                     }
                 }
 
-                if (valid) {
-                    ans = Math.max(ans, j - i + 1);
-                }
+                // Process the remaining segment
+                maxLength = Math.max(maxLength, solve(s, segmentStart, end, k));
+
+                return maxLength;
             }
         }
 
-        return ans;
+        // No invalid character: entire substring is valid
+        return end - start + 1;
     }
 }
+
+// // Time Complexity - O(n^2)
+// class Solution {
+//     public int longestSubstring(String s, int k) {
+
+//         int n = s.length();
+//         int ans = 0;
+
+//         for (int i = 0; i < n; i++) {
+
+//             int[] freq = new int[26];
+
+//             for (int j = i; j < n; j++) {
+
+//                 // Add only the newly included character
+//                 freq[s.charAt(j) - 'a']++;
+
+//                 // Check validity
+//                 boolean valid = true;
+
+//                 for (int count : freq) {
+//                     if (count > 0 && count < k) {
+//                         valid = false;
+//                         break;
+//                     }
+//                 }
+
+//                 if (valid) {
+//                     ans = Math.max(ans, j - i + 1);
+//                 }
+//             }
+//         }
+
+//         return ans;
+//     }
+// }
