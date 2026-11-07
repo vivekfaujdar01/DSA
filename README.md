@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/vivekfaujdar01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/vivekfaujdar01/DSA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/vivekfaujdar01/DSA/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/vivekfaujdar01/DSA/tree/master/0239-sliding-window-maximum) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vivekfaujdar01/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vivekfaujdar01/DSA/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/vivekfaujdar01/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vivekfaujdar01/DSA/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0324-wiggle-sort-ii) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0692-top-k-frequent-words](https://github.com/vivekfaujdar01/DSA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/vivekfaujdar01/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vivekfaujdar01/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekfaujdar01/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/vivekfaujdar01/DSA/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/vivekfaujdar01/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/vivekfaujdar01/DSA/tree/master/0413-arithmetic-slices) |
@@ -964,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/vivekfaujdar01/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/vivekfaujdar01/DSA/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vivekfaujdar01/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/vivekfaujdar01/DSA/tree/master/2336-smallest-number-in-infinite-set) |
