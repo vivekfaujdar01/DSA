@@ -1,30 +1,56 @@
+// Using Bucketization and using hashmap to create buckets 
 class Solution {
 
-    public boolean containsNearbyAlmostDuplicate(
-        int[] nums, int indexDiff, int valueDiff) {
+    public boolean containsNearbyAlmostDuplicate(int[] nums, int indexDiff, int valueDiff) {
 
-        TreeSet<Long> set = new TreeSet<>();
+        Map<Long, Long> buckets = new HashMap<>();
+
+        long bucketSize = (long) valueDiff + 1;
 
         for (int i = 0; i < nums.length; i++) {
 
             long current = nums[i];
 
-            // Remove element outside the window
-            if (i > indexDiff) {
-                set.remove((long) nums[i - indexDiff - 1]);
-            }
+            // Calculate bucket ID
+            long bucketId = Math.floorDiv(current, bucketSize);
 
-            // Find smallest element >= current - valueDiff
-            Long candidate = set.ceiling(current - valueDiff);
-
-            // Check whether candidate is within the range
-            if (candidate != null &&
-                candidate <= current + valueDiff) {
+            // Check the same bucket
+            if (buckets.containsKey(bucketId)) {
                 return true;
             }
 
-            // Add current element
-            set.add(current);
+            // Check the left bucket
+            if (buckets.containsKey(bucketId - 1)) {
+
+                long candidate = buckets.get(bucketId - 1);
+
+                if (Math.abs(current - candidate) <= valueDiff) {
+                    return true;
+                }
+            }
+
+            // Check the right bucket
+            if (buckets.containsKey(bucketId + 1)) {
+
+                long candidate = buckets.get(bucketId + 1);
+
+                if (Math.abs(current - candidate) <= valueDiff) {
+                    return true;
+                }
+            }
+
+            // Insert current element
+            buckets.put(bucketId, current);
+
+            // Remove element outside the window
+            if (i >= indexDiff) {
+
+                long old = nums[i - indexDiff];
+
+                long oldBucketId = Math.floorDiv(old, bucketSize);
+
+                buckets.remove(oldBucketId);
+            }
         }
 
         return false;
