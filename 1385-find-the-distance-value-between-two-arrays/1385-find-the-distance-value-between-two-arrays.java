@@ -1,25 +1,48 @@
+// Lower bound returns the index of the first element that is greater than or equal to the target.
+// x-d <= y <= x+d
+// Therefore:
+// If an element exists inside this range, x is NOT far.
+// If no element exists inside this range, x is far.
+// Time complexity : O(mlog(m) + nlog(m))
 class Solution {
+
     public int findTheDistanceValue(int[] arr1, int[] arr2, int d) {
+
+        Arrays.sort(arr2);
 
         int count = 0;
 
-        for (int i = 0; i < arr1.length; i++) {
+        for (int x : arr1) {
 
-            boolean isFar = true;
+            int target = x - d;
 
-            for (int j = 0; j < arr2.length; j++) {
+            int index = lowerBound(arr2, target);
 
-                if (Math.abs(arr1[i] - arr2[j]) <= d) {
-                    isFar = false;
-                    break;
-                }
-            }
+            if (index == arr2.length || arr2[index] > x + d) {
 
-            if (isFar) {
                 count++;
             }
         }
 
         return count;
+    }
+
+    private int lowerBound(int[] arr, int target) {
+
+        int low = 0;
+        int high = arr.length;
+
+        while (low < high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid] < target) {
+                low = mid + 1;
+            } else {
+                high = mid;
+            }
+        }
+
+        return low;
     }
 }
