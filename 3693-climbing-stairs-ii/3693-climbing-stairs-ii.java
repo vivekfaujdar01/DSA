@@ -1,40 +1,62 @@
-// f(n-1)+costs[n]+(n-(n-1))^2 = f(n-1)+costs[n]+1
-// f(n-2)+costs[n]+(n-(n-2))^2 = f(n-2)+costs[n]+4
-// f(n-3)+costs[n]+(n-(n-3))^2 = f(n-3)+costs[n]+9
-// Memoization (Top-Down DP)
-// Time	Complexity: (O(n)
+// Space Optimization
 class Solution {
+
     public int climbStairs(int n, int[] costs) {
 
-        int[] dp = new int[n + 1];
-        Arrays.fill(dp, -1);
+        int prev3 = 0;
+        int prev2 = 0;
+        int prev1 = 0;
 
-        return solve(n, costs, dp);
-    }
-    private int solve(int i, int[] costs, int[] dp) {
-        
-        if (i == 0) {
-            return 0;
+        for (int i = 1; i <= n; i++) {
+
+            int minCost = prev1 + 1;
+
+            if (i >= 2) {
+                minCost = Math.min(minCost, prev2 + 4);
+            }
+
+            if (i >= 3) {
+                minCost = Math.min(minCost, prev3 + 9);
+            }
+
+            int current = costs[i - 1] + minCost;
+
+            // Shift previous states
+            prev3 = prev2;
+            prev2 = prev1;
+            prev1 = current;
         }
 
-        if (dp[i] != -1) {
-            return dp[i];
-        }
-
-        int minCost = Integer.MAX_VALUE;
-
-        minCost = Math.min(minCost, solve(i - 1, costs, dp) + costs[i - 1] + 1);
-
-        if (i >= 2) {
-            minCost = Math.min(minCost, solve(i - 2, costs, dp) + costs[i - 1] + 4);
-        }
-
-        if (i >= 3) {
-            minCost = Math.min(minCost, solve(i - 3, costs, dp) + costs[i - 1] + 9);
-        }
-
-        dp[i] = minCost ;
-
-        return dp[i];
+        return prev1;
     }
 }
+
+
+// // Bottom-Up Tabulation (Iterative DP)
+// class Solution {
+
+//     public int climbStairs(int n, int[] costs) {
+
+//         int[] dp = new int[n + 1];
+
+//         dp[0] = 0;
+
+//         // Calculate minimum cost for every step
+//         for (int i = 1; i <= n; i++) {
+
+//             int minCost = dp[i - 1] + 1;
+
+//             if (i >= 2) {
+//                 minCost = Math.min(minCost, dp[i - 2] + 4);
+//             }
+
+//             if (i >= 3) {
+//                 minCost = Math.min(minCost, dp[i - 3] + 9);
+//             }
+
+//             dp[i] = costs[i - 1] + minCost;
+//         }
+
+//         return dp[n];
+//     }
+// }
