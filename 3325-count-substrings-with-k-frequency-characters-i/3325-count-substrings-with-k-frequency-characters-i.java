@@ -1,24 +1,37 @@
 class Solution {
-    // Improved Brute Force
+    // Sliding Window
     public int numberOfSubstrings(String s, int k) {
 
         int n = s.length();
+
+        int[] freq = new int[26];
+
+        int left = 0;
+        int count = 0;
         int ans = 0;
 
-        for (int i = 0; i < n; i++) {
+        for (int right = 0; right < n; right++) {
 
-            int[] freq = new int[26];
+            int index = s.charAt(right) - 'a';
 
-            for (int j = i; j < n; j++) {
+            freq[index]++;
 
-                char ch = s.charAt(j);
-                freq[ch - 'a']++;
+            if (freq[index] == k) {
+                count++;
+            }
 
-                if (freq[ch - 'a'] >= k) {
+            while (count > 0) {
 
-                    ans += n - j;
-                    break;
+                ans += n - right;
+
+                int leftIndex = s.charAt(left) - 'a';
+
+                if (freq[leftIndex] == k) {
+                    count--;
                 }
+
+                freq[leftIndex]--;
+                left++;
             }
         }
 
