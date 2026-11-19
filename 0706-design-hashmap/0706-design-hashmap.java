@@ -1,45 +1,92 @@
 class MyHashMap {
-    int[] keys;
-    int[] values;
-    int size;
+
+    class Node {
+        int key;
+        int value;
+        Node next;
+
+        Node(int key, int value) {
+            this.key = key;
+            this.value = value;
+        }
+    }
+
+    int capacity = 1009;
+    Node[] buckets;
 
     public MyHashMap() {
-        // Initialize arrays with a fixed capacity
-        keys = new int[10000];
-        values = new int[10000];
-        size = 0;
+        buckets = new Node[capacity];
+    }
+
+    private int hash(int key) {
+        return key % capacity;
     }
 
     public void put(int key, int value) {
-        for (int i = 0; i < size; i++) {
-            if (keys[i] == key) {
-                values[i] = value;
+
+        int index = hash(key);
+
+        Node current = buckets[index];
+
+        // Check whether key already exists
+        while (current != null) {
+
+            if (current.key == key) {
+                current.value = value;
                 return;
             }
+
+            current = current.next;
         }
-        keys[size] = key;
-        values[size] = value;
-        size++;
+
+        // Insert new node at the beginning
+        Node newNode = new Node(key, value);
+
+        newNode.next = buckets[index];
+        buckets[index] = newNode;
     }
 
     public int get(int key) {
-        for (int i = 0; i < size; i++) {
-            if (keys[i] == key) {
-                return values[i];
+
+        int index = hash(key);
+
+        Node current = buckets[index];
+
+        while (current != null) {
+
+            if (current.key == key) {
+                return current.value;
             }
+
+            current = current.next;
         }
-        return -1; // Return -1 if key is not found
+
+        return -1;
     }
 
     public void remove(int key) {
-        for (int i = 0; i < size; i++) {
-            if (keys[i] == key) {
-                // Overwrite the removed element with the last element
-                keys[i] = keys[size - 1];
-                values[i] = values[size - 1];
-                size--;
+
+        int index = hash(key);
+
+        Node current = buckets[index];
+        Node previous = null;
+
+        while (current != null) {
+
+            if (current.key == key) {
+
+                if (previous == null) {
+                    buckets[index] = current.next;
+                } 
+                else {
+                    previous.next = current.next;
+                }
+
                 return;
             }
+
+            previous = current;
+            current = current.next;
         }
     }
 }
