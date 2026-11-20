@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vivekfaujdar01/DSA/tree/master/0692-top-k-frequent-words) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/vivekfaujdar01/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vivekfaujdar01/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vivekfaujdar01/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/vivekfaujdar01/DSA/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
 | [0721-accounts-merge](https://github.com/vivekfaujdar01/DSA/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/vivekfaujdar01/DSA/tree/master/0740-delete-and-earn) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vivekfaujdar01/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/vivekfaujdar01/DSA/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/vivekfaujdar01/DSA/tree/master/0981-time-based-key-value-store) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/vivekfaujdar01/DSA/tree/master/1472-design-browser-history) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -1216,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/vivekfaujdar01/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## K-D Tree
