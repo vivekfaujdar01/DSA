@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vivekfaujdar01/DSA/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/vivekfaujdar01/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/vivekfaujdar01/DSA/tree/master/0605-can-place-flowers) |
+| [0622-design-circular-queue](https://github.com/vivekfaujdar01/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vivekfaujdar01/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vivekfaujdar01/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/vivekfaujdar01/DSA/tree/master/0658-find-k-closest-elements) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/vivekfaujdar01/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/vivekfaujdar01/DSA/tree/master/0307-range-sum-query-mutable) |
+| [0622-design-circular-queue](https://github.com/vivekfaujdar01/DSA/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vivekfaujdar01/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vivekfaujdar01/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/vivekfaujdar01/DSA/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/vivekfaujdar01/DSA/tree/master/1472-design-browser-history) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekfaujdar01/DSA/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/vivekfaujdar01/DSA/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/vivekfaujdar01/DSA/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekfaujdar01/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/vivekfaujdar01/DSA/tree/master/0933-number-of-recent-calls) |
