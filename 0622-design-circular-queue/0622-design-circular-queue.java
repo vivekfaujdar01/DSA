@@ -1,19 +1,26 @@
-// rear does not point to the last element. It points to the next position where we will insert an element
 class MyCircularQueue {
 
-    int[] arr;
-    int front;
-    int rear;
+    class Node {
+        int data;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+        }
+    }
+
+    Node front;
+    Node rear;
+
     int size;
     int capacity;
 
     public MyCircularQueue(int k) {
-        arr = new int[k];
-
-        front = 0;
-        rear = 0;
-        size = 0;
         capacity = k;
+        size = 0;
+
+        front = null;
+        rear = null;
     }
 
     public boolean enQueue(int value) {
@@ -22,9 +29,20 @@ class MyCircularQueue {
             return false;
         }
 
-        arr[rear] = value;
+        Node newNode = new Node(value);
 
-        rear = (rear + 1) % capacity;
+        // First node
+        if (isEmpty()) {
+            front = newNode;
+            rear = newNode;
+
+            rear.next = front;
+        } else {
+            rear.next = newNode;
+            rear = newNode;
+
+            rear.next = front;
+        }
 
         size++;
 
@@ -37,7 +55,14 @@ class MyCircularQueue {
             return false;
         }
 
-        front = (front + 1) % capacity;
+        // Only one element
+        if (front == rear) {
+            front = null;
+            rear = null;
+        } else {
+            front = front.next;
+            rear.next = front;
+        }
 
         size--;
 
@@ -50,7 +75,7 @@ class MyCircularQueue {
             return -1;
         }
 
-        return arr[front];
+        return front.data;
     }
 
     public int Rear() {
@@ -59,7 +84,7 @@ class MyCircularQueue {
             return -1;
         }
 
-        return arr[(rear - 1 + capacity) % capacity];
+        return rear.data;
     }
 
     public boolean isEmpty() {
