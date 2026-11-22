@@ -1,15 +1,28 @@
+// Using doubly linked list
 class MyCircularDeque {
 
-    int[] arr;
-    int front;
+    class Node {
+        int data;
+        Node prev;
+        Node next;
+
+        Node(int data) {
+            this.data = data;
+        }
+    }
+
+    Node front;
+    Node rear;
+
     int size;
     int capacity;
 
     public MyCircularDeque(int k) {
-        arr = new int[k];
-        capacity = k;
-        front = 0;
+        front = null;
+        rear = null;
+
         size = 0;
+        capacity = k;
     }
 
     public boolean insertFront(int value) {
@@ -18,9 +31,18 @@ class MyCircularDeque {
             return false;
         }
 
-        front = (front - 1 + capacity) % capacity;
+        Node newNode = new Node(value);
 
-        arr[front] = value;
+        if (isEmpty()) {
+            front = newNode;
+            rear = newNode;
+        } 
+        else {
+            newNode.next = front;
+            front.prev = newNode;
+            front = newNode;
+        }
+
         size++;
 
         return true;
@@ -32,9 +54,18 @@ class MyCircularDeque {
             return false;
         }
 
-        int rear = (front + size) % capacity;
+        Node newNode = new Node(value);
 
-        arr[rear] = value;
+        if (isEmpty()) {
+            front = newNode;
+            rear = newNode;
+        } 
+        else {
+            rear.next = newNode;
+            newNode.prev = rear;
+            rear = newNode;
+        }
+
         size++;
 
         return true;
@@ -46,7 +77,15 @@ class MyCircularDeque {
             return false;
         }
 
-        front = (front + 1) % capacity;
+        if (size == 1) {
+            front = null;
+            rear = null;
+        } 
+        else {
+            front = front.next;
+            front.prev = null;
+        }
+
         size--;
 
         return true;
@@ -56,6 +95,15 @@ class MyCircularDeque {
 
         if (isEmpty()) {
             return false;
+        }
+
+        if (size == 1) {
+            front = null;
+            rear = null;
+        } 
+        else {
+            rear = rear.prev;
+            rear.next = null;
         }
 
         size--;
@@ -69,7 +117,7 @@ class MyCircularDeque {
             return -1;
         }
 
-        return arr[front];
+        return front.data;
     }
 
     public int getRear() {
@@ -78,9 +126,7 @@ class MyCircularDeque {
             return -1;
         }
 
-        int rear = (front + size - 1) % capacity;
-
-        return arr[rear];
+        return rear.data;
     }
 
     public boolean isEmpty() {
@@ -91,6 +137,7 @@ class MyCircularDeque {
         return size == capacity;
     }
 }
+
 
 /**
  * Your MyCircularDeque object will be instantiated and called as such:
