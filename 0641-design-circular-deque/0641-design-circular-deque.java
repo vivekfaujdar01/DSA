@@ -1,11 +1,15 @@
 class MyCircularDeque {
 
-    ArrayList<Integer> list;
+    int[] arr;
+    int front;
+    int size;
     int capacity;
 
     public MyCircularDeque(int k) {
-        list = new ArrayList<>();
+        arr = new int[k];
         capacity = k;
+        front = 0;
+        size = 0;
     }
 
     public boolean insertFront(int value) {
@@ -14,7 +18,11 @@ class MyCircularDeque {
             return false;
         }
 
-        list.add(0, value);
+        front = (front - 1 + capacity) % capacity;
+
+        arr[front] = value;
+        size++;
+
         return true;
     }
 
@@ -24,7 +32,11 @@ class MyCircularDeque {
             return false;
         }
 
-        list.add(value);
+        int rear = (front + size) % capacity;
+
+        arr[rear] = value;
+        size++;
+
         return true;
     }
 
@@ -34,7 +46,9 @@ class MyCircularDeque {
             return false;
         }
 
-        list.remove(0);
+        front = (front + 1) % capacity;
+        size--;
+
         return true;
     }
 
@@ -44,7 +58,8 @@ class MyCircularDeque {
             return false;
         }
 
-        list.remove(list.size() - 1);
+        size--;
+
         return true;
     }
 
@@ -54,7 +69,7 @@ class MyCircularDeque {
             return -1;
         }
 
-        return list.get(0);
+        return arr[front];
     }
 
     public int getRear() {
@@ -63,15 +78,17 @@ class MyCircularDeque {
             return -1;
         }
 
-        return list.get(list.size() - 1);
+        int rear = (front + size - 1) % capacity;
+
+        return arr[rear];
     }
 
     public boolean isEmpty() {
-        return list.isEmpty();
+        return size == 0;
     }
 
     public boolean isFull() {
-        return list.size() == capacity;
+        return size == capacity;
     }
 }
 
