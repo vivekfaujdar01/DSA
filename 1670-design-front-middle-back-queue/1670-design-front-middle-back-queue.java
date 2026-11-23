@@ -1,130 +1,94 @@
-// Operation	ArrayList	Doubly LinkedList
-// pushFront	 O(n)	    O(1)
-// pushMiddle	 O(n)	    O(n)
-// pushBack	     O(1)	    O(1)
-// popFront	     O(n)	    O(1)
-// popMiddle	 O(n)	    O(n)
-// popBack	     O(1)	    O(1)
+// all methods performed in O(1) , we use two deques to solve it
 class FrontMiddleBackQueue {
 
-    class Node {
-        int val;
-        Node prev, next;
-
-        Node(int val) {
-            this.val = val;
-        }
-    }
-
-    Node head, tail;
-    int size;
+    Deque<Integer> front;
+    Deque<Integer> back;
 
     public FrontMiddleBackQueue() {
-        head = null;
-        tail = null;
-        size = 0;
+        front = new ArrayDeque<>();
+        back = new ArrayDeque<>();
     }
 
-    // Insert node between left and right
-    private void insert(Node left, Node right, Node node) {
+    // Maintain the size condition
+    private void balance() {
 
-        node.prev = left;
-        node.next = right;
-
-        if (left != null) {
-            left.next = node;
-        } else {
-            head = node;
+        if (front.size() > back.size() + 1) {
+            back.addFirst(front.removeLast());
+        } else if (front.size() < back.size()) {
+            front.addLast(back.removeFirst());
         }
-
-        if (right != null) {
-            right.prev = node;
-        } else {
-            tail = node;
-        }
-
-        size++;
-    }
-
-    // Remove a given node
-    private int remove(Node node) {
-
-        Node left = node.prev;
-        Node right = node.next;
-
-        if (left != null) {
-            left.next = right;
-        } else {
-            head = right;
-        }
-
-        if (right != null) {
-            right.prev = left;
-        } else {
-            tail = left;
-        }
-
-        size--;
-
-        return node.val;
-    }
-
-    // Find node at index
-    private Node getNode(int index) {
-
-        Node curr;
-
-        if (index < size / 2) {
-            curr = head;
-
-            for (int i = 0; i < index; i++) {
-                curr = curr.next;
-            }
-
-        } else {
-            curr = tail;
-
-            for (int i = size - 1; i > index; i--) {
-                curr = curr.prev;
-            }
-        }
-
-        return curr;
     }
 
     public void pushFront(int val) {
-        insert(null, head, new Node(val));
+
+        front.addFirst(val);
+        balance();
     }
 
     public void pushMiddle(int val) {
-        int mid = size / 2;
-        Node right = (mid == size) ? null : getNode(mid);
 
-        insert(right == null ? tail : right.prev, right, new Node(val));
+        if (front.size() > back.size()) {
+            back.addFirst(front.removeLast());
+        }
+
+        front.addLast(val);
     }
 
     public void pushBack(int val) {
-        insert(tail, null, new Node(val));
+
+        back.addLast(val);
+        balance();
     }
 
     public int popFront() {
-        if (size == 0)
+
+        if (front.isEmpty() && back.isEmpty()) {
             return -1;
-        return remove(head);
+        }
+
+        int val;
+
+        if (!front.isEmpty()) {
+            val = front.removeFirst();
+        } else {
+            val = back.removeFirst();
+        }
+
+        balance();
+
+        return val;
     }
 
     public int popMiddle() {
-        if (size == 0)
-            return -1;
 
-        int mid = (size - 1) / 2;
-        return remove(getNode(mid));
+        if (front.isEmpty()) {
+            return -1;
+        }
+
+        int val = front.removeLast();
+
+        balance();
+
+        return val;
     }
 
     public int popBack() {
-        if (size == 0)
+
+        if (front.isEmpty() && back.isEmpty()) {
             return -1;
-        return remove(tail);
+        }
+
+        int val;
+
+        if (!back.isEmpty()) {
+            val = back.removeLast();
+        } else {
+            val = front.removeLast();
+        }
+
+        balance();
+
+        return val;
     }
 }
 
