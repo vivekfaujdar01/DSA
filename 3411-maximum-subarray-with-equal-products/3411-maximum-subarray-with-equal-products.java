@@ -8,22 +8,17 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
 
+            long product = 1;
+            long gcd = 0;
+            long lcm = 1;
+
             for (int j = i; j < n; j++) {
 
-                long product = 1;
-                long gcd = nums[i];
-                long lcm = nums[i];
+                product *= nums[j];
 
-                for (int k = i; k <= j; k++) {
+                gcd = findGCD(gcd, nums[j]);
 
-                    product *= nums[k];
-
-                    if (k > i) {
-                        gcd = findGCD(gcd, nums[k]);
-
-                        lcm = (lcm * nums[k]) / findGCD(lcm, nums[k]);
-                    }
-                }
+                lcm = (lcm * nums[j]) / findGCD(lcm, nums[j]);
 
                 if (product == gcd * lcm) {
                     maxLen = Math.max(maxLen, j - i + 1);
