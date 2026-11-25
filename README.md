@@ -1004,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/vivekfaujdar01/DSA/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vivekfaujdar01/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vivekfaujdar01/DSA/tree/master/0706-design-hashmap) |
+| [0725-split-linked-list-in-parts](https://github.com/vivekfaujdar01/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1472-design-browser-history](https://github.com/vivekfaujdar01/DSA/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/vivekfaujdar01/DSA/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vivekfaujdar01/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
