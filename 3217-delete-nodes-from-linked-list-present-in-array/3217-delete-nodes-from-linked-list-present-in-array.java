@@ -8,15 +8,13 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
 
-        // Store nums elements in HashSet
-        Set<Integer> set = new HashSet<>();
+        boolean[] exists = new boolean[100001];
 
         for (int num : nums) {
-            set.add(num);
+            exists[num] = true;
         }
 
         ListNode dummy = new ListNode(0);
@@ -25,13 +23,13 @@ class Solution {
         ListNode prev = dummy;
         ListNode curr = head;
 
-        // Traverse linked list
         while (curr != null) {
 
-            if (set.contains(curr.val)) {
-                prev.next = curr.next; // Delete current node
+            if (exists[curr.val]) {
+                prev.next = curr.next;
+
             } else {
-                prev = curr; // Keep current node
+                prev = curr;
             }
 
             curr = curr.next;
